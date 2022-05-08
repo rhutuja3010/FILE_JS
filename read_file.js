@@ -4,6 +4,7 @@
 // fs.renameSync("read.txt","new.txt")
 // fs.renameSync("new.txt","read.txt")
 
+
 // fs.appendFileSync("read.txt","  I'm girl")
 // const file1=fs.readFileSync("read.txt","utf8")
 // const original=file1.toString()
@@ -14,7 +15,7 @@
 
 
 
-const fs=require('fs')
+// const fs=require('fs')
 // fs.writeFileSync("my_file.txt","what are you doing?")
 // fs.renameSync("my_file.txt","your_file.txt")
 // fs.unlinkSync("your_file.txt")
@@ -26,8 +27,15 @@ const fs=require('fs')
 // console.log(file2)
 
 
+// const reg = /Rhutuja/
+// console.log(reg)
 
 
-
-
-
+// const fs=require('fs')
+// fs.writeFileSync("my.txt","Rhutuja Patil")
+// a1=fs.readFileSync("my.txt","utf8")
+// let f=a1.toString()
+// console.log(f)
+// // console.log(a)
+// // fs.appendFileSync("my.txt",  "   Hiiiiiiiiiiii")
+// // fs.unlinkSync("my.txt")
